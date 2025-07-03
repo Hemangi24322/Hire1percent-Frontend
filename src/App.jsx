@@ -70,9 +70,10 @@ export default function Hire1PercentHomePage() {
           <p className="text-lg text-gray-600 max-w-2xl mb-8">
             We connect elite candidates with leading companies using smart, transparent, and efficient hiring processes.
           </p>
+          <a href="#contact">
           <button className="px-8 py-4 bg-blue-700 text-white text-lg font-semibold rounded-lg shadow-lg hover:bg-blue-800 transform hover:scale-105 transition-all duration-300">
             Get Started
-          </button>
+          </button></a>
         </section>
 
         {/* Content Sections Wrapper */}
